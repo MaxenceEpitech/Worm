@@ -5,7 +5,7 @@
 ** Login   <maxence.fourrier@epitech.eu>
 ** 
 ** Started on  Thu Oct 19 12:20:37 2017 maxence.fourrier
-** Last update Sun Oct 29 17:59:13 2017 maxence.fourrier
+** Last update Sun Oct 29 18:04:24 2017 maxence.fourrier
 */
 
 #include "worm.h"
@@ -41,7 +41,7 @@ void		event_fire(t_worm *worm, sfVector2f pos, int type)
 	worm->game->shoot[i]->id = vector2i(worm->game->turn,
 					    worm->game->select);
 	worm->game->shoot[i]->pos = vector2f(pos.x - 8, pos.y - 28);
-	//worm->player[worm->game->turn][worm->game->select]->fire--;
+	worm->player[worm->game->turn][worm->game->select]->fire--;
 	break;
       }
 }

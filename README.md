@@ -2,8 +2,8 @@
 A worm 2d made in 5 days 
 
 Menu :
-     Green team start
-      Press Left arrow or Right arrow to select ur skin
+		Green team start
+     	   Press Left arrow or Right arrow to select ur skin
       Press space to confirm or press enter to cancel
 
 Game :
@@ -11,7 +11,7 @@ Game :
 		To jump : "Z" & "Space"
 		Left : "Q" & "Left arrow"
 		Right : "D" & "Right arrow"
-  
+
 	Next
 		Next turn : "Enter"
 		Next characters : "Tab"

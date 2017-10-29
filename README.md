@@ -4,7 +4,8 @@ A worm 2d made in 5 days
 Menu :
 Green team start
 
-Press Left arrow or Right arrow to select ur sking
+Press Left arrow or Right arrow to select ur skin
+
 Press space to confirm or press enter to cancel
 
 Game :

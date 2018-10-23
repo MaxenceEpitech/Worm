@@ -1,7 +1,10 @@
-# worm
+# Worm Game
+### Demo :
+![](public/demo.gif)
+
 A worm 2d made in 5 days 
 
-Menu :
+### Menu :
 
 	Green team start
 
@@ -9,7 +12,7 @@ Menu :
 	Confirm : "Space"
 	Cancel : "Enter"
 
-Game :
+### Game :
 
 	Move
 		To jump : "Z" & "Space"
@@ -25,6 +28,3 @@ Game :
 	  	Normal : Normal missile, will fall.
 		Guided : Control it with the mouse.
 
-![](public/demo.gif)
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)

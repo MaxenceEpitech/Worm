@@ -26,3 +26,5 @@ Game :
 		Guided : Control it with the mouse.
 
 ![](public/demo.gif)
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)

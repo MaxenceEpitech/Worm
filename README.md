@@ -1,5 +1,4 @@
 # Worm Game
-### Demo :
 ![](public/demo.gif)
 
 A worm 2d made in 5 days 

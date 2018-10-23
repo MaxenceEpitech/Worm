@@ -26,4 +26,7 @@ Game :
 		Guided : Control it with the mouse.
 
 ![](demo.mp4)
-ici
+
+<div>
+	<h1> cc </h1>
+</div>

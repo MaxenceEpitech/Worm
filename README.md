@@ -25,4 +25,4 @@ Game :
 	  	Normal : Normal missile, will fall.
 		Guided : Control it with the mouse.
 
-![](./public/demo.gif)
+![](public/demo.gif)
